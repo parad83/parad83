@@ -1,4 +1,6 @@
-### Hi there 👋
+### me
+
+physics major at UW
 
 <!--
 **parad83/parad83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
